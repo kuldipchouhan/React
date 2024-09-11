@@ -21,6 +21,7 @@ export const NetFlexSeries = () => {
         <p className="card-rating">⭐ {rating}</p>
         <p className="card-rating"> {returnGenra()}</p>
         <button>{canWatch()}</button>
+        
   
       </div>
     </div>
